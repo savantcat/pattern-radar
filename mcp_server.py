@@ -29,6 +29,14 @@ if HERE not in sys.path:
 
 import radar  # noqa: E402
 
+
+# 溯源水印：唯一真源 savantcat_mark.py（本目录 vendor 一份）。
+# 改动请改 savantcat_mark/ 真源，跑 tools/sync_mark.py 同步，别在这里改。
+sys.path.insert(0, HERE if 'HERE' in dir() else BASE)
+import savantcat_mark as MARK  # noqa: E402
+
+PRODUCT = "竞品内容 Pattern 雷达（pattern-radar）"
+MCP_SOURCE = "https://savantcat.cn/mcp-radar.html"
 SERVER_VERSION = "1.0.0"
 SERVER_NAME = "pattern-radar"
 MAX_TEXTS = 2000          # 单次最多分析多少条（防公网滥用）
@@ -97,6 +105,7 @@ def _refuse(why):
 
 
 @mcp.tool(annotations=RO_ANN)
+@MARK.seal("self_check", PRODUCT, SERVER_VERSION, source=MCP_SOURCE)
 def self_check() -> str:
     """现场跑一次对照组自检，返回尺子是否可用（健康组能检出 / 病态组不误报 / 负对照为 0）。
 
@@ -114,6 +123,7 @@ def self_check() -> str:
 
 
 @mcp.tool(annotations=RO_ANN)
+@MARK.seal("explain_method", PRODUCT, SERVER_VERSION, source=MCP_SOURCE)
 def explain_method() -> str:
     """返回口径与边界：Pattern 怎么定义、阈值怎么来的、这个工具做不到什么。"""
     return json.dumps({
@@ -134,6 +144,7 @@ def explain_method() -> str:
 
 
 @mcp.tool(annotations=RO_ANN)
+@MARK.seal("analyze_patterns", PRODUCT, SERVER_VERSION, source=MCP_SOURCE)
 def analyze_patterns(texts: list, brands: str = "", min_coverage: int = 0) -> str:
     """从一批文本里找出跨文本反复出现的 Pattern、被反复引用的信源与同质化程度。
 
