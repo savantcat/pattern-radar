@@ -1,0 +1,6346 @@
+{
+ "tool": "pattern-radar",
+ "version": "1.0.0",
+ "samples": 56,
+ "null_p95": 2,
+ "threshold": 3,
+ "patterns": [
+  {
+   "phrase": "如果你告诉我行业",
+   "count": 13,
+   "coverage": 0.2321
+  },
+  {
+   "phrase": "数据安全",
+   "count": 10,
+   "coverage": 0.1786
+  },
+  {
+   "phrase": "系统集成",
+   "count": 10,
+   "coverage": 0.1786
+  },
+  {
+   "phrase": "AI问答",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "内容安全",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "坐席辅助",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "定制开发",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "更新机制",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "的知识库",
+   "count": 9,
+   "coverage": 0.1607
+  },
+  {
+   "phrase": "可能涉及",
+   "count": 8,
+   "coverage": 0.1429
+  },
+  {
+   "phrase": "引用来源",
+   "count": 8,
+   "coverage": 0.1429
+  },
+  {
+   "phrase": "持续更新",
+   "count": 8,
+   "coverage": 0.1429
+  },
+  {
+   "phrase": "更新日期",
+   "count": 8,
+   "coverage": 0.1429
+  },
+  {
+   "phrase": "语音合成",
+   "count": 8,
+   "coverage": 0.1429
+  },
+  {
+   "phrase": "用DifyFastGPT",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "ASRTTS",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "是否要私有化",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "2025年",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "有技术团队",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "开源自建",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "快捷回复",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "投诉举报",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "文档解析",
+   "count": 7,
+   "coverage": 0.125
+  },
+  {
+   "phrase": "AISearchBotChatGPTUserPe",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "BotChatGPTUserPerplexity",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "ISearchBotChatGPTUserPer",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "OAISearchBotChatGPTUserP",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "SearchBotChatGPTUserPerp",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "archBotChatGPTUserPerple",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "chBotChatGPTUserPerplexi",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "earchBotChatGPTUserPerpl",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "hBotChatGPTUserPerplexit",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "rchBotChatGPTUserPerplex",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "DeepSeek",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "告知同意最小必要",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "YouTube",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "llmstxt",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "知识库AI客服",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "00元坐席月",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "Bing索引",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "RAG知识库",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "AI机器人",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "不要一上来",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "公平无歧视",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "是否私有化",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "钉钉知识库",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "不要直接",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "如果只是",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "建知识库",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "引用溯源",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "按对话量",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "数据来源",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "文档管理",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "每周更新",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "测试报告",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "知识库和",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "金融政务",
+   "count": 6,
+   "coverage": 0.1071
+  },
+  {
+   "phrase": "ConsoleBingWebmasterTool",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "chConsoleBingWebmasterTo",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "eSearchConsoleBingWebmas",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "gleSearchConsoleBingWebm",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "hConsoleBingWebmasterToo",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "leSearchConsoleBingWebma",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "onsoleBingWebmasterTools",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "rchConsoleBingWebmasterT",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "GPTBotGoogleExtended",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "《生成式人工智能服务管理暂行办法》",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "ZendeskIntercom",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "重庆南华中天信息技术有限公司",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "小微企业做AI客服核心不是",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "RedditQuora",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "个人信息保护影响评估",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "两江数字经济产业园",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "企业微信腾讯乐享",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "用户协议隐私政策",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "飞书钉钉企业微信",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "RAG知识图谱",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "大数据知识图谱",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识库SaaS",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "飞书知识库飞书",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "AI客服通常",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "AI生成内容",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "AI知识图谱",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "大模型RAG",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "大模型知识库",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "智齿网易七鱼",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识库管理员",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识管理模块",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "等保备案测评",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "钉钉AI助理",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "AI客服的",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "Excel",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "工单CRM",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "搜索命中率",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "权限能不能",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "没有负责人",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "用SaaS",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识库客服",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识库问答",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "自带知识库",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "转人工人工",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "还是私有化",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "15万年",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "20万年",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "500～",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "5万年中",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "Help",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "一上来就",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "中科闻歌",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "人工客服",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "人工转接",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "人机协同",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "价格政策",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "具体条款",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "内容审核",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "原创数据",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "只建不用",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "可抓取可",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "品牌提及",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "引用AI",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "投诉处理",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "持续改进",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "搜索引擎",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "故障排查",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "数据案例",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "新人培训",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "日志审计",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "日志留存",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "是否支持",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "权限体系",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "用知识库",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识库不",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "知识文档",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "组织架构",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "自然语言",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "行业媒体",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "行业目录",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "访问控制",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "语音客服",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "转人工不",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "运营机制",
+   "count": 5,
+   "coverage": 0.0893
+  },
+  {
+   "phrase": "AQPageHowToProductOrgani",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ChatGPTSearch允许OAISearch",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ChatGPTUserPerplexityBot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "FAQPageHowToProductOrgan",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "HowToProductOrganization",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "OrganizationPersonBreadc",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "PageHowToProductOrganiza",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "PerplexityBotGooglebotBi",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "QPageHowToProductOrganiz",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ageHowToProductOrganizat",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "anizationPersonBreadcrum",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "atGPTSearch允许OAISearchBo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "atgptcomperplexityaicopi",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ationPersonBreadcrumbLis",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "chatgptcomperplexityaico",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "comperplexityaicopilotmi",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "eHowToProductOrganizatio",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "erplexityBotGooglebotBin",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "exityBotGooglebotBingbot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ganizationPersonBreadcru",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "geHowToProductOrganizati",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "gptcomperplexityaicopilo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "hatGPTSearch允许OAISearchB",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "hatgptcomperplexityaicop",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ityaicopilotmicrosoftcom",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "izationPersonBreadcrumbL",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "lexityBotGooglebotBingbo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "mperplexityaicopilotmicr",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "nizationPersonBreadcrumb",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "omperplexityaicopilotmic",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "otChatGPTUserPerplexityB",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "perplexityaicopilotmicro",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "plexityBotGooglebotBingb",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ptcomperplexityaicopilot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "rganizationPersonBreadcr",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "rplexityBotGooglebotBing",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tChatGPTUserPerplexityBo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tGPTSearch允许OAISearchBot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tcomperplexityaicopilotm",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tgptcomperplexityaicopil",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tionPersonBreadcrumbList",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "zationPersonBreadcrumbLi",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "结构化数据ArticleFAQPageHowTo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ProfoundOtterlyPeecAI",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "语雀NotionConfluence",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "SharePointCopilot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "WikipediaWikidata",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "《互联网信息服务深度合成管理规定》",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "DifyFastGPT扣子",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "tOAISearchBot",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "扣子DifyFastGPT",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "腾讯云大模型知识引擎LKE",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "一般不需要生成式AI备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "生成式人工智能服务备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ICP备案APP备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "做生成式AI服务备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "解决率转人工率满意度",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "重庆维普资讯有限公司",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AISearchA",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "华为云盘古知识计算",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "同方知网重庆分公司",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "智齿Zendesk",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "1技术层先让AI",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AI知识库RAG",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "CopilotA",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ntGoogle",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "中冶赛迪信息技术",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "依赖Google",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "到35家更匹配的",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "响应时间并发能力",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "多用列表表格步骤",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "安全评估算法备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "率解决率转人工率",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知乎Reddit",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识图谱智能问答",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "迭代看服务器日志",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "向境内公众提供",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "客服售后知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "百度智能云重庆",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库智能问答",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "说我帮您转人工",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "1万～10万",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AI搜索通常",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "APP小程序",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "Ahrefs",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "GitHub",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ICP许可证",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "OpenAI",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "WPS365",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "先用平台自带",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "几十到几百元",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "可用性稳定性",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "向属地网信办",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "客服系统自带",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "建议小微企业",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "微信企业微信",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "最小可行方案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "火山引擎方舟",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "生成内容是否",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "生成内容标识",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识图谱方向",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库文档量",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库机器人",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识管理平台",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识管理文档",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "腾讯云LKE",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "豆包Kimi",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "重庆理工大学",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "000元月",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "00800",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "0～200",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "1先定目标",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "SaaS或",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "Top10",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "云厂商AI",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "人更新时间",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "以自己名义",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "低代码AI",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "内部知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "准确率引用",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "对外知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "必须转人工",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "或Dify",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "或算法备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "提供大模型",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "操作步骤1",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "是AI客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "有客服系统",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "标题用客户",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "用H2H3",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "用内部术语",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "直接转人工",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知乎公众号",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库定制",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库整理",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "私有化信创",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "私有化是否",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "第1周盘点",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "第三方共享",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "计划第1周",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "轻量知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "退换货发票",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "重庆软件园",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "集成私有化",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "00～1",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "0100",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "0万大型",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "2000",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "200万",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "4选工具",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "500万",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AB测试",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AI喜欢",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AI应用",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AI标识",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "EEAT",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "ceNo",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "com等",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "七鱼美洽",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "人工坐席",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "人工审核",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "企业搜索",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "保留人工",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "允许搜索",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "关键指标",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "内部员工",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "内部客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "几百到几",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "别一上来",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "制度流程",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "制知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "化数据不",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "协同OA",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "去标识化",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "反馈闭环",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "发票账号",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "可能触发",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "和Top",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "售前咨询",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "在线客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "场景是否",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "培训客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "备案还是",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "大型集团",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "如果你能",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "如果要做",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "定制50",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "定期更新",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "客服场景",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "客服对话",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "嵌入客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "常见问题",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "建立权威",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "情绪激动",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "情绪识别",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "户满意度",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "投诉建议",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "报告日志",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "持续优化",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "接入微信",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "搜索爬虫",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "政务企业",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "敏感问题",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "数据出境",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "数据治理",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "是否语音",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "是否面向",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "标准条款",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "模块重庆",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "模型安全",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "模板标题",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "没人维护",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "注入越狱",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "深度定制",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "渠道是否",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "漏洞管理",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "演练记录",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "澄清纠错",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "澜舟科技",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "版本管理",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "申诉投诉",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "电话线路",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "百度千帆",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "真实文档",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库3",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库先",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识库要",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "知识沉淀",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "社交媒体",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "第2周写",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "答案来源",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "答知识库",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "算法合作",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "算法推荐",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "结构清晰",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "能不能接",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "能落地的",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "致远互联",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "要求是否",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "评估报告",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "连续2次",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "退款投诉",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "退款赔偿",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "适用场景",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "选工具并",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "通常不是",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "重复咨询",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "重复问题",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "长尾问题",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "问答客服",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "问答通常",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "需要备案",
+   "count": 4,
+   "coverage": 0.0714
+  },
+  {
+   "phrase": "AGFlowMaxKBQAnythingAnyt",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AISearchBotPerplexityBot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ArticleFAQPageHowToProdu",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "DifyFastGPTRAGFlowMaxKBQ",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "FastGPTRAGFlowMaxKBQAnyt",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "FlowMaxKBQAnythingAnythi",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GFlowMaxKBQAnythingAnyth",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GPTRAGFlowMaxKBQAnything",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "MaxKBQAnythingAnythingLL",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "PTRAGFlowMaxKBQAnythingA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "PointMicrosoft365Copilot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ProductOrganizationPerso",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "RAGFlowMaxKBQAnythingAny",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "TRAGFlowMaxKBQAnythingAn",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ToProductOrganizationPer",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "aicopilotmicrosoftcomgem",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "astGPTRAGFlowMaxKBQAnyth",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "axKBQAnythingAnythingLLM",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "cleFAQPageHowToProductOr",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "copilotmicrosoftcomgemin",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ctOrganizationPersonBrea",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ductOrganizationPersonBr",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "eFAQPageHowToProductOrga",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "eHowToOrganizationPerson",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "fyFastGPTRAGFlowMaxKBQAn",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "hatGPTPerplexityGoogleAI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "icleFAQPageHowToProductO",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "icopilotmicrosoftcomgemi",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ifyFastGPTRAGFlowMaxKBQA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ityGoogleAIOverviewsBing",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "leAIOverviewsBingCopilot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "leFAQPageHowToProductOrg",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "lotmicrosoftcomgeminigoo",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "lowMaxKBQAnythingAnythin",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "microsoftcomgeminigoogle",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "oProductOrganizationPers",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "oductOrganizationPersonB",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "otmicrosoftcomgeminigoog",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "owMaxKBQAnythingAnything",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "owToProductOrganizationP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "plexity允许PerplexityBot内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "roductOrganizationPerson",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "rosoftcomgeminigooglecom",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "rticleFAQPageHowToProduc",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "stGPTRAGFlowMaxKBQAnythi",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tGPTRAGFlowMaxKBQAnythin",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tOrganizationPersonBread",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ticleFAQPageHowToProduct",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tmicrosoftcomgeminigoogl",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tyGoogleAIOverviewsBingC",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tyaicopilotmicrosoftcomg",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "uctOrganizationPersonBre",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "wMaxKBQAnythingAnythingL",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "wToProductOrganizationPe",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "yFastGPTRAGFlowMaxKBQAny",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "yGoogleAIOverviewsBingCo",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "yaicopilotmicrosoftcomge",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "加结构化数据ArticleFAQPageHowT",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "化数据ArticleFAQPageHowToPr",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "在ChatGPTPerplexityGoogle",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "建DifyFastGPTRAGFlowMaxKB",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "据ArticleFAQPageHowToProd",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据ArticleFAQPageHowToPro",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "构化数据ArticleFAQPageHowToP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自建DifyFastGPTRAGFlowMaxK",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆本地专门只做企业知识库的独立团队不算多更多是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "PerplexityPerplexityBot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆忽米网络科技有限公司工业互联网工业知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "《人工智能生成合成内容标识办法》已施行AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AtlassianConfluenceA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "BingbotChatGPTSearch",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GoogleVertexAISearch",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "到GoogleSearchConsole",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GoogleAIOverviews主要",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "BingCopilotBingbot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "LinkedInCrunchbase",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "BingCopilot依赖Bing",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "使用不面向公众一般不需要生成式AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "想让网站被AI搜索引用核心不是讨好",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化我可以帮你估一个更具体的预算",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆市软件行业协会重庆人工智能学会",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ZendeskFreshdesk",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "《人工智能智能客服系统技术要求》",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "中小企业建客服知识库核心不是写一",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "被认定具有舆论属性或社会动员能力",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "DifyFastGPTCoze",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GoogleGooglebot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "robotstxtCDNWAF",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一般不需要生成式AI算法备案但",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企查查天眼查搜重庆知识管理知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "意图识别实体抽取多轮对话上下文",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "算法备案生成式AI备案安全评估",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆慧都科技有限公司企业数字化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "阿里云百炼腾讯云大模型知识引擎",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ChatGPTSearchO",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "PerplexityBotA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "具有舆论属性或社会动员能力的",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆大学重庆邮电大学西南大学",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AzureAISearch",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "CopilotGoogle",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "StackOverflow",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "智齿科技网易七鱼Udesk",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有而且不少但能落地关键不是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ASR准确率TTS自然度",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GBT47746正式文本",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "UdeskZendesk",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "云问科技竹间智能追一科技",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案安全评估个人信息保护",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "提交sitemapxml",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "率首次解决率平均处理时长",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "符合部分符合不符合不适用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "院重庆绿色智能技术研究院",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "50–100个真实问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Baiduspider",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Bytespider等",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Document360",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tSharePoint",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "互联网信息服务算法备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "公众提供生成式AI服务",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "安全评估并履行算法备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "机构知识库企业知识服务",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "检查robotstxt",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库语雀Notion",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网易七鱼智齿Udesk",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服SaaS基础",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Cloudflare",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "FastGPT知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Notion腾讯文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业微信微信客服扣子",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "已备案大模型API不",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "意图识别准确率召回率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "泛微蓝凌致远用友金蝶",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "爱数AnyShare",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "看服务器日志里有没有",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "适合联合研发算法攻关",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "通常不需要生成式AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆中科云从AI平台",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆人工智能学会重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆誉存科技有限公司",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "钉钉飞书企业微信服务",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "首响时间平均响应时间",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "100个真实问题测",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "50万年私有化部署",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ADLDAPSSO",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "BotClaude",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ClaudeBot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Top50高频问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "canonical",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "《个人信息保护法》",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不是自研大模型而是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "人工协同转人工策略",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "内容在HTML中可",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "列表表格步骤FAQ",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "单独的AI客服备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "图片加alt视频加",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "成算法备案安全评估",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "我可以给你一套具体",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "时间并发能力可用性",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "生成回答的AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用IndexNow",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "百度智能云千帆客悦",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "算法备案生成合成类",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "索引ChatGPT",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "美洽Udesk智齿",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "违法不良信息敏感词",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "追求大而全结果没人",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆知识管理知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题看是否引用你用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0万年私有化定制",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0天落地计划第1",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "2025XXXX",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "API几十～几百",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Chatwoot",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "CozeDify",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Google索引",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ICPAPP备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SemrushA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Top50问题定",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "tDataset",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "万年中小企业标准",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "下面按类型给你一",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "个人信息告知同意",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "云从科技重庆团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "会重庆CIO协会",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "传统知识管理OA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "团队适合联合研发",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "在用飞书钉钉企微",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "大模型token",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客服聊天记录工单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "常见坑追求大而全",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信客服企业微信",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "忽米网工业互联网",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "我可以直接给你2",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "所以传统SEO仍",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是否最小必要收集",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "服务备案算法备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "查询办理工单预约",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "每周看未命中问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "每天看未命中问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "深度合成算法备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "率意图识别准确率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用AI可见性工具",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用大模型生成回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库RAG知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网站App小程序",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网络安全等级保护",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "美洽网易七鱼智齿",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "聊天记录工单电话",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "联系方式隐私政策",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "腾讯云智能客服等",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "规则用户说转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工规则用户说",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "软通动力中软国际",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "过滤违法不良信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆软件行业协会",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～50万年私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "000元年企业",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "00～5000",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0条高频FAQ",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0～5000元",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "2内容层让AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "3个月聊天记录",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "50个高频问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "50～100条",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服机器人",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "CRM工单订单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "License",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "NLP知识图谱",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SaaS知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SaaS私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "badcase",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "owner更新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "万年中大型企业",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "上线飞书知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "仅企业内部使用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业内部使用不",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "传统SEO仍然",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "使用大模型生成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "使用生成式AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先让AI爬虫能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先让AI能抓到",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "再展开多用列表",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "加显式隐式标识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "化企业知识管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "台知识图谱智能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "咨询属地网信办",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "在Reddit",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案小程序备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "大型项目100",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "对接CRM工单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "属地网信办口径",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工具我可以帮你",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "年维保约10%",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "应急预案与演练",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "引用权威来源并",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "我可以帮你缩到",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据与个人信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "整理Top50",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "文档而是让客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "未成年人保护等",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "涉及生成式AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "生成式AI生成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用友金蝶重庆分",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用户会问的问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用扣子Dify",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识图谱NLP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识工程NLP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库AI助理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库知识管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化部署首年",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "给一个国内市场",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网页APP微信",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "老年人残障人士",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "腾讯乐享腾讯云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要做生成式AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "讯飞星火知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "设置转人工规则",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆大学计算机",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题补进知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "阿里云百炼通义",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "预算范围我可以",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0%转人工率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "003000",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "01～1元次",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0万年中大型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0万～100",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0问题覆盖率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0～1000",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0～3000",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "100300",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "1整理知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "300万首年",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服大概",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI客服是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI平台知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI生成回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI身份告知",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI辅助人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Baklib",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Gemini",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OA协同知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OA知识管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SaaS约1",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SaaS轻量",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "WeLink",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "desk美洽",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "lebotA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一上来全自动",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不要spam",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "中大型私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "云厂商大模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "云百度智能云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "人工兜底不要",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "人工投诉退款",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "价格发货退换",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业内容管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业微信文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业微信网站",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "作者日期来源",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "你的AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "做AI客服先",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "做安全评估并",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "写成AI容易",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "华为云腾讯云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "协同办公生态",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "协同办公知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "厂商AI知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "可理解可信可",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "团队重庆大学",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "园仙桃数据谷",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "国内AI搜索",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "审核发布版本",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "对外帮助中心",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "对话量知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "年企业知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "引用可信来源",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信抖音淘宝",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "据知识库回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "接企业知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "接订单CRM",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "搜索无结果率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "搜重庆知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "敏感个人信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "文本语音图片",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "方案类型常见",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "无障碍适老化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "日志培训记录",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "明确AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是否含大模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是否明确AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是否明确是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是推荐性国标",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "智能伙伴钉钉",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "智能知识图谱",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "智能问答知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "更容易被引用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有限公司协同",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "来源是否合法",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "标准答案适用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "标识AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "正式文本为准",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "每月清理过期",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "没有统一报价",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "泛微致远蓝凌",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "注意个人信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "满意度投诉率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "火山引擎扣子",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "率任务完成率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "率自助解决率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "理机构知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "理解意图识别",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "电话录音售后",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "监控告警日志",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识图谱企业",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识图谱重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识工程相关",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库FAQ",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识管理厂商",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识管理重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化RAG",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化混合云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "科大讯飞重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "竹间智能云问",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "第三方大模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "答案适用条件",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "算法备案系统",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "类型常见报价",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "美洽七鱼智齿",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "腾讯云阿里云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自带智能客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "蓝凌泛微致远",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要做安全评估",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要求做生成式",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要私有化预算",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工率首次",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "钉钉飞书企微",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问答SaaS",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题标准答案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "面向境内公众",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "项目100万",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "预算大概多少",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "飞书钉钉语雀",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "首次响应时间",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "高校科研合作",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0万起大型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0问题清单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "100万～",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "10常见坑",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "1先让AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "24小时内",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "30天落地",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "3句直接给",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "4高校科研",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI大数据",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI大模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI引用并",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Agent",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Glean",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "HTTPS",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OACRM",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OAECM",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Owner",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "RAG厂商",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "RAG平台",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "SaaSA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Top20",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "chema",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一句话先做",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一句话建议",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一句话答案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一套具体的",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "上下文理解",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不要让AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "业AI知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "个人信息需",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "中关村科金",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "中小企业先",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "云重庆团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "人产品售后",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "价差别很大",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业大数据",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "优先级清单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "供应链安全",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "俗称大模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "做算法备案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先做MVP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先做POC",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先做Top",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "公司ERP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "公司大数据",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "关键词匹配",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "关键词堆砌",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "关键词退款",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "具体以属地",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "具体的分类",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "内部使用或",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "分支或代理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "分类和标签",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "别全靠JS",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "加作者日期",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "华为云重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "发货退换货",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "可到100",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "合作前建议",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "同行业案例",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "向公众提供",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "回答准确率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "处理知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案ICP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案经营性",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "多平台分发",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "多渠道接入",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "多语言方言",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "大数据AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "定分类模板",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客户会搜的",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客户看不懂",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客服工作台",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "导入知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "导出最近1",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "差别很大按",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "已发货订单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "年AI客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "应急预案和",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "建议先做P",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信公众号",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "意敏感信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "手机号订单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "把高频问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "提示注入越",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "搜索索引和",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "支持私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据不出域",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "整改责任人",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "文档知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "日均咨询量",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是SaaS",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "更新旧内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "最小可用版",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "月SaaS",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有AI爬虫",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有研发团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "服务端渲染",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "机器人回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "权限最小化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "权限隔离和",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "核心不是买",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "每天咨询量",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "物流查询退",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "物流退换货",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "率首次响应",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用最低成本",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用现成工具",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用用户会问",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用统一模板",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "电话网页A",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "的预算区间",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "监测AI引",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "监测和迭代",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "直接给答案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "直接给结论",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "看哪些指标",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识图谱类",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库中标",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库建设",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库结构",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库钉钉",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化成本",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "私有化数据",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "被AI引用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要求私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "角色知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "让AI搜索",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "记录整理T",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "负责人更新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "路线适合谁",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工入口",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工投诉",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工敏感",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工条件",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "近13个月",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "退换货售后",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "适合中大型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问答RAG",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题一句话",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "非工作时间",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～10万年",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～500元",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "00万也",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "00万大",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "00万年",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "00～2",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "05～3",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0–30",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "0～15",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "100–",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "1元分钟",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "1先判断",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "1知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "20%年",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "2～3个",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "4写内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "4知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "50万起",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "5选工具",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI不是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "AI理解",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Bot等",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Demo",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "GSCB",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Guru",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OA厂商",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "OA文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "Sale",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ceAI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "k腾讯云",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "ntOA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "→转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一个渠道",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一个问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "一级分类",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "万年AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "万年如果",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "万知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "上线前先",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不确定时",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不要只查",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不要只看",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "不要屏蔽",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "专业AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "业务系统",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "主要渠道",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "于知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "产品使用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "产品参数",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "产品文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "人工优先",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "什么情况",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "什么时候",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "仍可能要",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业建议",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企业版1",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "企微微信",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "传输存储",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "低置信度",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "你的品牌",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "保持品牌",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "信号AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "信息整理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "信息是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "倾向引用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先做AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先定场景",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先用现成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "先跑起来",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "公众号小",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "公开信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "关于我们",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "关键内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "内知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "内部文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "内部问答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "再考虑A",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "写成内部",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "创新中心",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "功能性能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "化如果你",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "升级路径",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "协同管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "单独同意",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "厂商在渝",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "历史会话",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "发票合同",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "取消订单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "口径为准",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "只做内部",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "可做知识",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "可私有化",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "可解释可",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "号小红书",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "合作团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "同意敏感",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "否则容易",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "告知用户",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "员工问答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "和转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "品牌信息",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "哪些渠道",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "围绕一个",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "固定话术",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "国产模型",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "在与AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "在公众号",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "场景常见",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "场景比如",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "坐席数月",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "型企业多",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "培训考核",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "处理机制",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备份恢复",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案登记",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案等保",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案网站",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "备案面向",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "复杂问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "复杂集成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "多个渠道",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "大致区间",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "如果AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "如果你是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "委托处理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "存储加密",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "安全事件",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "定制集成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "定制项目",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "审核投诉",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "审计日志",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客户自助",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客服团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "客服坐席",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "家短名单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "容易摘录",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "容易被摘",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "密钥管理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "对外提供",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工具成本",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工具组合",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工单系统",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工单集成",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "工知识库",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "已有OA",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "已用飞书",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "已经在用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "市场常见",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "常见01",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "平台规则",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "幻觉控制",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "度转人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "建议标题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "引用概率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信企微",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信私域",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "微信邮件",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "快速上线",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "愿意引用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "成熟产品",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "截图视频",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "投诉渠道",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "投诉记录",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "抽样质检",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "招标网搜",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "持续迭代",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "接给你一",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "提供服务",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "搜索AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "撤回同意",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "支付物流",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "故障恢复",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据分类",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据敏感",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "数据智能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "文档问答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "方便搜索",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "方向重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "方案适合",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是否达标",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "是让AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "智齿七鱼",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "更新频率",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "最后更新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有OAI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有人负责",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "有技术要",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "服务可能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "服务安全",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "本地软件",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "机制投诉",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "机器人自",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "权限审计",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "权限搜索",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "条款自查",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "来源AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "来源所以",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "标注来源",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "核实最新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "模型更新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "模型约0",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "次未解决",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "每个问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "注意合规",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "流CRM",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "涉及语音",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "清晰事实",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "渠道每天",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "满意度8",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "版本更新",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "现有工具",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "生态伙伴",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "生成答案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用100",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用RAG",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用户体验",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用户反馈",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "用第三方",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "电商平台",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "百度字节",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "百行智能",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "的服务商",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "盘点问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "直接上线",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "直接复制",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "直接答案",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "相关团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识切片",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库→",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库一",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库再",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库是",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库没",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库用",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库第",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库等",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识库网",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识治理",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识资源",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "知识运营",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "短名单和",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "研发文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "神州数码",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "第4周看",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "答案AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "答案是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "答非所问",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "管理制度",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "系统优先",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "系统提示",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "约100",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "结论先行",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "给你一个",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "给你一份",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "维基百科",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网站上线",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "网页微信",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "美洽智齿",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自动回答",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自带AI",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自查建议",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "自由发挥",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "落地最快",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "西信天元",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要ICP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要做等保",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要加显式",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要查订单",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "要求人工",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "规模是否",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "解决一个",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "订单支付",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "订单物流",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "证据制度",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "识别问题",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "话术客服",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "账号安全",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "账号登录",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "跑起来再",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "跨境传输",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "身份鉴别",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工2",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "转人工6",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "软件重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "过期内容",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "还是对外",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "这类适合",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "退款纠纷",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "退款退货",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "适合内部",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "适合场景",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "适合文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "通常几分",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "通常要做",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "通常需要",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆分支",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重庆正大",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "重点自查",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问得最多",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问答重庆",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问答飞书",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题产品",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "问题解决",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "需ICP",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "页面表现",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "项目文档",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "首年通常",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "高校团队",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～15万",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～20%",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～20万",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～3个月",
+   "count": 3,
+   "coverage": 0.0536
+  },
+  {
+   "phrase": "～5万年",
+   "count": 3,
+   "coverage": 0.0536
+  }
+ ],
+ "brands": [
+  {
+   "brand": "合尘猫",
+   "count": 0,
+   "coverage": 0.0,
+   "head": 0
+  }
+ ],
+ "citations": [
+  {
+   "domain": "你的域名",
+   "count": 2,
+   "questions": 1,
+   "placeholder": true
+  }
+ ],
+ "homogeneity": 0.07692552790845629
+}

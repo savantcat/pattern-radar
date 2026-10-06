@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "cn.savantcat/pattern-radar",
+  "title": "竞品内容 Pattern 雷达 · AI 答案里的重复说法",
+  "description": "把 AI 答案/竞品内容当语料，找出反复出现的说法、被反复引用的信源与答案同质化程度，含对照组自检",
+  "version": "1.0.0",
+  "websiteUrl": "https://savantcat.cn/mcp-radar",
+  "repository": {
+    "url": "https://github.com/savantcat/pattern-radar",
+    "source": "github"
+  }
+}

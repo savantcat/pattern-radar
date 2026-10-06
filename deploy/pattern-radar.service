@@ -1,0 +1,17 @@
+[Unit]
+Description=合尘猫 MCP Server - 竞品内容 Pattern 雷达（Agent 可调用层）
+Documentation=https://savantcat.cn/mcp-radar
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/pattern-radar
+ExecStart=/usr/bin/python3.11 /opt/pattern-radar/mcp_server.py --http --host 127.0.0.1 --port 8768 --path /mcp --stateless
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

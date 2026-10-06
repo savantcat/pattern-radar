@@ -1,0 +1,3 @@
+# 核心引擎（radar.py）零依赖 —— 纯 Python 标准库，clone 下来就能跑。
+# 以下仅在使用 MCP 服务端（server.py / mcp_server.py）时需要：
+mcp>=2.1
