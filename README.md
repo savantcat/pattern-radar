@@ -6,6 +6,14 @@
 
 已托管为公网 MCP 服务，**不用装任何东西就能用**：`https://savantcat.cn/mcp-radar`
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Deps](https://img.shields.io/badge/dependencies-zero-success.svg)](requirements.txt)
+[![CI](https://github.com/savantcat/pattern-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/savantcat/pattern-radar/actions/workflows/ci.yml)
+
+[![M8ven Verified](https://m8ven.ai/badge/mcp/savantcat/pattern-radar)](https://m8ven.ai/mcp/savantcat/pattern-radar?s=readme)
+
+---
+
 ```
 python radar.py --selftest                        # 必跑：对照组自检
 python radar.py --input <记录.json> --brands 我家,竞品A,竞品B --out 报告.md
