@@ -4,6 +4,8 @@
 
 纯标准库、零依赖、**只读**。clone 下来就能跑。
 
+已托管为公网 MCP 服务，**不用装任何东西就能用**：`https://savantcat.cn/mcp-radar`
+
 ```
 python radar.py --selftest                        # 必跑：对照组自检
 python radar.py --input <记录.json> --brands 我家,竞品A,竞品B --out 报告.md
@@ -66,6 +68,37 @@ python radar.py --input <记录.json> --brands 我家,竞品A,竞品B --out 报�
 ```
 
 第五节刻意**只给一条建议**——需要的是下一步动作，不是十条清单。
+
+## 怎么接入
+
+**用远程端点（推荐，零安装）** —— 任何支持 MCP 的客户端填 URL 即可：
+
+```json
+{"mcpServers": {"pattern-radar": {"url": "https://savantcat.cn/mcp-radar"}}}
+```
+
+三个工具：`analyze_patterns`（主分析）· `self_check`（先验尺子可用）· `explain_method`（口径与边界）。
+
+**本地 stdio**（要改代码或离线用）：
+
+```
+python server.py                    # stdio
+python server.py --http --port 8768 # streamable-http
+```
+
+## 相关
+
+- 🏠 更多作品与实战记录：<https://savantcat.cn>
+- 🧩 全部 MCP 端点与接入方式：<https://savantcat.cn/mcp/>
+- 📄 这个服务的详情页：<https://savantcat.cn/mcp-radar.html>
+
+## License
+
+MIT — 见 [LICENSE](LICENSE)。
+
+## 作者
+
+**合尘猫** · 一个人 + 一个 AI 分身的 AI 落地实践 —— 知识库 · AI 客服合规 · 内容自动化。
 
 ## 版本
 
